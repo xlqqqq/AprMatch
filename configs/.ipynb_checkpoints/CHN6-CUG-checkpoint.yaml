@@ -1,0 +1,18 @@
+dataset: 'CHN6-CUG'
+nclass: 2
+crop_size: 512
+data_root: dataset/CHN6-CUG
+
+epochs: 100
+batch_size: 4               
+lr: 0.0001
+lr_multi: 1.0
+weight_decay: 0.01
+model: segformer
+backbone: mit_b2
+
+conf_thresh: 0.95
+
+lambda_bdy: 0.4
+
+num_prog_gates: 2
