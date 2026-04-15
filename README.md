@@ -2,7 +2,7 @@
 
 Adaptive Patch Replacement Match
 
-![apr框架图](C:\Users\toby\Desktop\小论文\图片\apr框架图.jpg)
+<img width="7538" height="2256" alt="apr框架图" src="https://github.com/user-attachments/assets/f8d7ee30-5719-4d13-bfa3-2ca1347afb11" />
 
 ## Getting Started
 
