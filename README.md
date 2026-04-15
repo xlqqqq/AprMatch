@@ -8,8 +8,10 @@ Adaptive Patch Replacement Match
 
 ### Pre-trained Encoders
 
+```
 ├── ./pretrained
     ├── mit_b2.pth
+```
 
 ### Datasets
 
